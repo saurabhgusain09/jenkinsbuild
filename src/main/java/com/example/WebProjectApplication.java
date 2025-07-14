@@ -21,7 +21,7 @@ public class WebProjectApplication {
                "<title>CloudFolks HUB</title>" +
                "</head>" +
                "<body style='text-align:center; background-color:#f0f8ff;'>" +
-               "<h1 style='color: #4CAF50;'>Welcome to <span style='color: #00008B;'>CloudFolks HUB</span>!</h1>" +
+               "<h1 style='color: #4CAF50;'>Welcome to <span style='color: #00008B;'>CloudFolks HUB-Updated Build</span>!</h1>" +
                "<p style='font-size:20px; color: #555;'>Empowering Your DevOps Journey</p>" +
                "</body>" +
                "</html>";
